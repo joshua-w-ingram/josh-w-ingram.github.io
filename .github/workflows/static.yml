@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Josh Ingram Portfolio</title>
+  <meta http-equiv="refresh" content="2; url=https://phpstack-1485973-5941686.cloudwaysapps.com">
+  <script>
+    setTimeout(function(){
+      window.location.replace("https://phpstack-1485973-5941686.cloudwaysapps.com");
+    }, 2000);
+  </script>
+  <style>
+    html, body { height: 100%; margin: 0; }
+    body {
+      display: flex; align-items: center; justify-content: center;
+      font-family: Arial, Helvetica, sans-serif; background: #0b0b0b; color: #f1f1f1;
+      text-align: center;
+    }
+    a { color: #4cc; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <p>Loading portfolio. If it does not open, 
+    <a href="https://phpstack-1485973-5941686.cloudwaysapps.com">click here</a>.
+  </p>
+</body>
+</html>
